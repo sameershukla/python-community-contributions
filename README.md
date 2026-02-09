@@ -50,7 +50,7 @@ Few Papers
 
 **Cloud Horizons: Strengthening Rural Healthcare through Telemedicine’s Digital Canopy**: This paper discusses the role of cloud platforms, distributed systems, and data analytics in expanding access to healthcare services in underserved regions.
 
-** Book Chapter: A Systematic Review of the Impact of Artificial Intelligence (AI) on Dental Diagnosis**
+**Book Chapter: A Systematic Review of the Impact of Artificial Intelligence (AI) on Dental Diagnosis**
 This chapter systematically reviews the impact of Artificial Intelligence (AI) on dental diagnosis, focusing on its applications in digital dentistry, particularly in rural areas where access to quality dental care is limited
 
 Many of these research projects were implemented and validated using Python-based data processing and machine learning workflows.  
