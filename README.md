@@ -4,22 +4,67 @@ Overview
 
 I am a Python architect, educator, and author with over 5 years of sustained contributions to the Python ecosystem through technical writing, conference speaking, mentoring, proposal reviewing, and applied research. My work focuses on building real-world data and AI systems using Python and helping engineers understand complex topics such as distributed data processing, semantic search, matching engines, and performance optimization. Below is the summary of my contributions 
 
-# Book 
-Optimizing PySpark Jobs: Real-World Scenarios to Master Logical Plans
+# Book - Optimizing PySpark Jobs: Real-World Scenarios to Master Logical Plans
 Published by freeCodeCamp – February 2026
 
 I am the author of a practical, engineer-focused book that teaches how Apache Spark actually works under the hood and how to optimize PySpark jobs in real-world production environments. The book covers:
 
-Spark Catalyst optimizer internals
-
-Logical and physical execution plans
-
-Column pruning and filter pushdown techniques
-
-Shuffle tuning and partition strategies
-
-Performance optimization patterns in AWS Glue and distributed environments
-
-Real-world scenarios drawn from large-scale data engineering systems
+- Spark Catalyst optimizer internals
+- Logical and physical execution plans
+- Column pruning and filter pushdown techniques
+- Shuffle tuning and partition strategies
+- Performance optimization patterns in AWS Glue and distributed environments
+- Real-world scenarios drawn from large-scale data engineering systems
 
 This book is designed to help engineers move beyond syntax and develop a deep understanding of Spark’s execution model, enabling them to diagnose slow jobs, reduce infrastructure costs, and design efficient pipelines in production.
+
+# Technical Writing and Educational Content
+
+I have authored numerous technical articles on Python and data engineering across platforms such as:
+- freeCodeCamp (Top Contributor Twice)
+- DZone (Top Contributor recognition)
+- Hashnode
+- C# Corner
+
+Topics covered include:
+- Python internals and functional programming
+- PySpark optimization techniques
+- Data engineering patterns
+- Debugging distributed systems
+- Apache Airflow
+- Pydantic
+- Python-based libraries
+
+# Research Publications
+
+I have authored and co-authored research papers applying Python, artificial intelligence, and data analytics to real-world domains such as healthcare diagnostics, distributed systems, and intelligent data platforms. 
+My research focuses on bridging academic concepts with production-grade engineering, particularly in areas such as machine learning, clustering, medical imaging analysis, and scalable data processing.
+
+Few Papers
+
+# Enhancing Healthcare Insights: Exploring Diverse Use-Cases with K-means Clustering
+This work demonstrates how machine learning techniques implemented in Python can be used for tumor identification, brain surgery support, and cardiac diagnosis through data-driven clustering approaches.
+
+# Utilizing Cloud Services for Advanced E-Health Applications: Enhancing Diagnostics and Treatment through Vertex AI and Vision API
+This research explores how AI-driven image analysis and cloud-based machine learning platforms can improve diagnostic accuracy and speed in modern healthcare systems.
+
+# Cloud Horizons: Strengthening Rural Healthcare through Telemedicine’s Digital Canopy
+This paper discusses the role of cloud platforms, distributed systems, and data analytics in expanding access to healthcare services in underserved regions.
+
+# Conference Speaking
+
+I have delivered technical talks and sessions at international Python and developer communities, including:
+- PyTexas
+- PyKampala
+- PyClubs
+- PyCon Uganda (accepted speaker, unable to attend)
+
+Talk topics include:
+- TestContainers in Python 
+- Distributed data systems
+- Python in data engineering
+- Resilient architectures using FastAPI
+
+
+
+My goal in writing is to explain complex systems in a way that practicing engineers can apply immediately.
