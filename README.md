@@ -44,11 +44,14 @@ My research focuses on bridging academic concepts with production-grade engineer
 
 Few Papers
 
-Enhancing Healthcare Insights: Exploring Diverse Use-Cases with K-means Clustering: This work demonstrates how machine learning techniques implemented in Python can be used for tumor identification, brain surgery support, and cardiac diagnosis through data-driven clustering approaches using Python. 
+**Enhancing Healthcare Insights: Exploring Diverse Use-Cases with K-means Clustering**: This work demonstrates how machine learning techniques implemented in Python can be used for tumor identification, brain surgery support, and cardiac diagnosis through data-driven clustering approaches using Python. 
 
-Utilizing Cloud Services for Advanced E-Health Applications: Enhancing Diagnostics and Treatment through Vertex AI and Vision API: This research explores how AI-driven image analysis and cloud-based machine learning platforms can improve diagnostic accuracy and speed in modern healthcare systems.
+**Utilizing Cloud Services for Advanced E-Health Applications: Enhancing Diagnostics and Treatment through Vertex AI and Vision API**: This research explores how AI-driven image analysis and cloud-based machine learning platforms can improve diagnostic accuracy and speed in modern healthcare systems.
 
-Cloud Horizons: Strengthening Rural Healthcare through Telemedicine’s Digital Canopy: This paper discusses the role of cloud platforms, distributed systems, and data analytics in expanding access to healthcare services in underserved regions.
+**Cloud Horizons: Strengthening Rural Healthcare through Telemedicine’s Digital Canopy**: This paper discusses the role of cloud platforms, distributed systems, and data analytics in expanding access to healthcare services in underserved regions.
+
+Book Chapter: **A Systematic Review of the Impact of Artificial Intelligence (AI) on Dental Diagnosis**
+This chapter systematically reviews the impact of Artificial Intelligence (AI) on dental diagnosis, focusing on its applications in digital dentistry, particularly in rural areas where access to quality dental care is limited
 
 Many of these research projects were implemented and validated using Python-based data processing and machine learning workflows.
 
@@ -68,7 +71,8 @@ Talk topics include:
 
 My goal in writing is to explain complex systems in a way that practicing engineers can apply immediately.
 
-# Conference Reviewing and Volunteer Contributions: I contribute to the Python ecosystem by reviewing proposals and supporting conference quality:
+# Conference Reviewing and Volunteer Contributions: 
+I contribute to the Python ecosystem by reviewing proposals and supporting conference quality:
 
 - PyCascades – Proposal Reviewer
 - EuroPython – Proposal Reviewer
@@ -80,7 +84,8 @@ I actively mentor speakers and contributors in the Python community, including:
 
 This mentoring work focuses on improving technical clarity, storytelling, and practical demonstration quality.
 
-# Open Source and Applied Python Engineering: In industry and research, I design and build large-scale systems using Python, including:
+# Open Source and Applied Python Engineering: 
+In industry and research, I design and build large-scale systems using Python, including:
 
 - Identity matching and duplicate detection engines
 - Semantic search systems using embeddings and vector search
