@@ -23,8 +23,8 @@ This book is designed to help engineers move beyond syntax and develop a deep un
 # Technical Writing and Educational Content
 
 I have authored numerous technical articles on Python and data engineering across platforms such as:
-- freeCodeCamp (Top Contributor Twice)
 - DZone (Top Contributor recognition)
+- freeCodeCamp (Top Contributor Twice)
 - Hashnode
 - C# Corner
 
@@ -50,10 +50,10 @@ Few Papers
 
 **Cloud Horizons: Strengthening Rural Healthcare through Telemedicine’s Digital Canopy**: This paper discusses the role of cloud platforms, distributed systems, and data analytics in expanding access to healthcare services in underserved regions.
 
-Book Chapter: **A Systematic Review of the Impact of Artificial Intelligence (AI) on Dental Diagnosis**
+** Book Chapter: A Systematic Review of the Impact of Artificial Intelligence (AI) on Dental Diagnosis**
 This chapter systematically reviews the impact of Artificial Intelligence (AI) on dental diagnosis, focusing on its applications in digital dentistry, particularly in rural areas where access to quality dental care is limited
 
-Many of these research projects were implemented and validated using Python-based data processing and machine learning workflows.
+Many of these research projects were implemented and validated using Python-based data processing and machine learning workflows.  
 
 # Conference Speaking
 
